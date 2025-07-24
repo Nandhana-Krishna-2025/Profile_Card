@@ -2,7 +2,7 @@
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-It features a **Profile Card UI** with support for **dark and light theme toggle** using the system's color scheme.
+It features a **Profile Card UI** with support for **dark and light theme toggle**.
 
 ---
 
